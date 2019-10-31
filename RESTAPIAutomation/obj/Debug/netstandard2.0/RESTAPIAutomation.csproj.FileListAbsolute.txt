@@ -1,0 +1,6 @@
+C:\Users\pothirvx\source\repos\Automation\RESTAutomation\RESTAPIAutomation\RESTAPIAutomation\bin\Debug\netstandard2.0\RESTAPIAutomation.deps.json
+C:\Users\pothirvx\source\repos\Automation\RESTAutomation\RESTAPIAutomation\RESTAPIAutomation\bin\Debug\netstandard2.0\RESTAPIAutomation.dll
+C:\Users\pothirvx\source\repos\Automation\RESTAutomation\RESTAPIAutomation\RESTAPIAutomation\obj\Debug\netstandard2.0\RESTAPIAutomation.csprojAssemblyReference.cache
+C:\Users\pothirvx\source\repos\Automation\RESTAutomation\RESTAPIAutomation\RESTAPIAutomation\obj\Debug\netstandard2.0\RESTAPIAutomation.csproj.CoreCompileInputs.cache
+C:\Users\pothirvx\source\repos\Automation\RESTAutomation\RESTAPIAutomation\RESTAPIAutomation\obj\Debug\netstandard2.0\RESTAPIAutomation.AssemblyInfoInputs.cache
+C:\Users\pothirvx\source\repos\Automation\RESTAutomation\RESTAPIAutomation\RESTAPIAutomation\obj\Debug\netstandard2.0\RESTAPIAutomation.AssemblyInfo.cs
